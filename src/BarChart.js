@@ -11,8 +11,8 @@ class Bar extends Component {
       <div>
       <BarChart
         data={data}
-        width={800}
-        height={400}
+        width={500}
+        height={300}
         margin={{top: 10, bottom: 50, left: 50, right: 10}}
         colorByLabel={false}
         />
